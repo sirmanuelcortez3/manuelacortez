@@ -42,6 +42,6 @@ hero_media = "manuelcortez_pic.JPG"
   label = "Contact me"
 
 +++
-## My name is **Manuel Cortez** and I'm a **graduate student** specializing in **Data Science**
+## My name is **Manuel Cortez** and I'm a **undergraduate student** specializing in **Computer Science**
 
 "A statistical analysis, properly conducted, is a delicate dissection of uncertainties, a surgery of suppositions." — M.J. Moroney, Statistician.

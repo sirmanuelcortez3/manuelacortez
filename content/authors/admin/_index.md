@@ -26,9 +26,9 @@ interests:
 - Information Retrieval
 name: Manuel Cortez
 organizations:
-- name: University of Colorado Boulder
+- name: Western Governors University
   url: ""
-role: Master's Student in Data Science
+role: Student in Data Science
 social:
 
 - icon: github
@@ -42,7 +42,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Currently a graduate student of data science. My main interests include data mining, statistical analysis, and operational-related data analytics. My goal is to broaden my scope of expertise in areas related to machine-learning, cloud computing, and data engineering.
+Currently an undergraduate student of computer science. My main interests include data mining, statistical analysis, and operational-related data analytics. My goal is to broaden my scope of expertise in areas related to machine-learning, cloud computing, and data engineering.
 
 <!--- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. --->
 
