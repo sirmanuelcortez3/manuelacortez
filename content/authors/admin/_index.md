@@ -28,7 +28,7 @@ name: Manuel Cortez
 organizations:
 - name: Western Governors University
   url: ""
-role: Student in Data Science
+role: Student in Computer Science
 social:
 
 - icon: github
