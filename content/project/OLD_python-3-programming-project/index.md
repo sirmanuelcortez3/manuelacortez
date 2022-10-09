@@ -1,8 +1,4 @@
----
-date: "2022-03-15T00:00:00Z"
-Summary: The Final Project for the Python 3 Programming course from the University of Michigan
-Title: Python 3 Programming Project
----
+<!--Old Project-->
 # The Project #
 1. This is a project with minimal scaffolding. Expect to use the the discussion forums to gain insights! It’s not cheating to ask others for opinions or perspectives!
 2. Be inquisitive, try out new things.
