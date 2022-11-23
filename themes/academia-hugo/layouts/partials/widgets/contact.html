@@ -48,7 +48,7 @@
     {{end}}
 
   </div>
-<div class="col-md-6">
+  <div class="col-md-6">
     <ul class="fa-ul" itemscope>
       {{ if and site.Params.email (not $page.Params.email_form) }}
       <li>
@@ -60,9 +60,8 @@
       </li>
       {{ end }}
 
-</div>
 
-<!---      {{ with site.Params.phone }}
+      {{ with site.Params.phone }}
       <li>
         <i class="fa-li fas fa-phone mt-2" aria-hidden="true"></i>
         <span id="person-telephone" itemprop="telephone">
@@ -108,4 +107,4 @@
     <div id="map"></div>
     {{ end }}
   </div>
-</div> --->
+</div>
