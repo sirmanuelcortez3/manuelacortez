@@ -4,9 +4,9 @@ authors:
 avatar_image: "manuelcortez_pic.JPG"
 <!--- bio: My research interests include distributed robotics, mobile computing and programmable
   matter. --->
-btn:
+<!--- btn:
 - label: Download Resume
-  url: https://sourcethemes.com/academic/docs/install/
+  url: https://sourcethemes.com/academic/docs/install/ --->
 display_education: false
 education:
   courses:
