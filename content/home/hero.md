@@ -44,4 +44,4 @@ hero_media = "manuelcortez_pic.JPG"
 +++
 ## My name is **Manuel Cortez** and I'm a **undergraduate student** specializing in **Computer Science**
 
-"A statistical analysis, properly conducted, is a delicate dissection of uncertainties, a surgery of suppositions." — M.J. Moroney, Statistician.
+“The good life is one inspired by love and guided by knowledge." — Bertrand Russell
