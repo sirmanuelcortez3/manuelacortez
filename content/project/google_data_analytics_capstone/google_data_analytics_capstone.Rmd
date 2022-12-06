@@ -1,5 +1,5 @@
 ---
-date: "2022-07-09T00:00:00Z"
+date: "2022-07-10T00:00:00Z"
 Summary: The Capstone Project for the Google Data Analytics Specialization
 Title: Google Data Analytics Capstone
 ---
