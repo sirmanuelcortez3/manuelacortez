@@ -26,7 +26,7 @@ interests:
 - Information Retrieval
 name: Manuel Cortez
 organizations:
-<!--- - name: --->
+- name:
   url: ""
 role: Student in Data Science
 social:
