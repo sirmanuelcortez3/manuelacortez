@@ -42,6 +42,6 @@ hero_media = "manuelcortez_pic.JPG"
   label = "Contact me"
 
 +++
-## My name is **Manuel Cortez** and I'm a **undergraduate student** specializing in **Computer Science**
+## My name is **Manuel Cortez** and I'm a **student** interested in **Data Science**
 
 “The good life is one inspired by love and guided by knowledge." — Bertrand Russell
