@@ -25,7 +25,7 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 name: Manuel Cortez
-organizations: Eastern University
+organizations:
 - name:
   url: ""
 role: Graduate Student in Data Science
