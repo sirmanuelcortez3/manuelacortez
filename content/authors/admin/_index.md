@@ -26,7 +26,7 @@ interests:
 - Information Retrieval
 name: Manuel Cortez
 organizations:
-- name:
+- name: Eastern University
   url: ""
 role: Graduate Student in Data Science
 social:
