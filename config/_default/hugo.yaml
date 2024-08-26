@@ -1,10 +1,8 @@
 title: Manuel A Cortez
 baseURL: https://www.manuelacortez.com
 copyright: Copyright &copy; {year}
+googleAnalytics:
 theme: academia-hugo
-services:
-  googleAnalytics:
-    id: UA-123456-78
 enableGitInfo: no
 defaultContentLanguage: en
 hasCJKLanguage: no
