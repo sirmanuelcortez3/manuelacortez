@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Manuel A Cortez</title>
+    <link>http://localhost:4321/authors/</link>
+    <description>Recent content in Authors on Manuel A Cortez</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="http://localhost:4321/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://localhost:4321/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/authors/admin/</guid>
+      <description>&lt;p&gt;During my time as a Research Analyst, I utilized R, Python, and Excel to manage and analyze complex datasets, ensuring the accuracy and depth of research findings. My role involved improving evaluation instruments and applying advanced statistical methods to derive meaningful insights. As an Assessment Assistant, I diagnosed and resolved hardware and software issues related to data science tools, developed resources to improve students&amp;rsquo; troubleshooting skills, and collaborated with faculty to address technical challenges. Previously, as a Digital Creator, I successfully managed a social media account with a significant following, conducting in-depth data analysis that drove strategic decision-making and resulted in substantial revenue growth. I also performed trend analysis and implemented data cleaning and pre-processing techniques using Excel and SQL on a self-hosted MariaDB server. Resume/CV is available upon request.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

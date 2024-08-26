@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Manuel A Cortez</title>
+    <link>http://localhost:4321/project/</link>
+    <description>Recent content in Projects on Manuel A Cortez</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://localhost:4321/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Class Roster Project</title>
+      <link>http://localhost:4321/project/class_roster_project/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/project/class_roster_project/</guid>
+      <description>&lt;p&gt;The project scenario consists of being hired as a contractor to help a university migrate an existing student system to a new platform using C++ language. My primary responsibility was to develop a program that included two key classes: Student and Roster. This program was designed to manage the current roster of students enrolled in a course. It involved reading student data, including ID, name, email, age, course completion times, and degree program, and using function calls to manipulate this data. As the data was parsed, the program created student objects and stored the entire student list in an array called &lt;code&gt;classRosterArray&lt;/code&gt;. The program provided specific outputs directly to the console, ensuring accurate and efficient data management throughout the migration process.&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&#34;https://github.com/sirmanuelcortez3/Class-Roster-Project&#34;&gt;github repository&lt;/a&gt; for full project. Available upon request.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis Of 2019 Cyclistic Bike Share Data</title>
+      <link>http://localhost:4321/project/google_data_analytics_capstone/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/project/google_data_analytics_capstone/</guid>
+      <description>&lt;p&gt;The project scenario consists of being hired as a junior data analyst on the marketing analyst team at Cyclistic, a bike-share company in Chicago. The main objective was to understand the differences in usage patterns between annual members and casual riders. By analyzing data on ride frequency, duration, and popular routes, I identified key trends that explained why casual riders might consider upgrading to annual memberships. The insights I gathered were instrumental in designing targeted marketing strategies aimed at converting casual riders into loyal annual members. My findings were presented to Cyclistic executives, backed by compelling data visualizations and actionable recommendations. The main tool that was used in this analysis was R.&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&#34;https://github.com/sirmanuelcortez3/Google-Data-Analytics-Capstone.git&#34;&gt;github repository&lt;/a&gt; for full project. Available upon request.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python 3 Programming Project</title>
+      <link>http://localhost:4321/project/python_3_programming_capstone/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/project/python_3_programming_capstone/</guid>
+      <description>&lt;p&gt;In this project, a ZIP file containing newspaper images were processed. The goal was to develop a Python program capable of searching these images for specific keywords and detecting faces associated with those keywords. To achieve this, I applied several Python libraries, including Pillow for image manipulation, OpenCV for face detection, and Pytesseract for optical character recognition (OCR). The project involved creating a contact sheet of all faces found on newspaper pages that mentioned the search term. This comprehensive project tested my ability to learn new tools, integrate multiple libraries, and solve complex problems in image processing.&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&#34;https://github.com/sirmanuelcortez3/Python-3-Programming-Project.git&#34;&gt;github repository&lt;/a&gt; for full project. Available upon request.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

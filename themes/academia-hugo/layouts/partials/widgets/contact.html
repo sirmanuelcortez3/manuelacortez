@@ -11,7 +11,7 @@
   <div class="col-12">
     {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
   </div>
-  <div class="col-12">
+  <div class="col-md-6">
     {{ if $page.Params.email_form }}
 
     {{ $post_action := "" }}
@@ -48,8 +48,7 @@
     {{end}}
 
   </div>
-  
-<!-- <div class="col-md-6">
+  <div class="col-md-6">
     <ul class="fa-ul" itemscope>
       {{ if and site.Params.email (not $page.Params.email_form) }}
       <li>
@@ -60,7 +59,6 @@
         </span>
       </li>
       {{ end }}
-
 
       {{ with site.Params.phone }}
       <li>
@@ -108,4 +106,4 @@
     <div id="map"></div>
     {{ end }}
   </div>
-</div> -->
+</div>

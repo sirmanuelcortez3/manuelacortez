@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Academia"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "manuelcortez_pic.JPG"
+hero_media = "manuelacortez_hero_pic.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -34,7 +34,7 @@ hero_media = "manuelcortez_pic.JPG"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "/authors/admin"
+  url = "authors/admin/"
   label = "Know more"
   
 [btn_alt]
@@ -42,6 +42,6 @@ hero_media = "manuelcortez_pic.JPG"
   label = "Contact me"
 
 +++
-## My name is **Manuel Cortez** and I'm a **graduate student** specializing in **Data Science and Analytics**
+## My name is **Manuel Cortez** and I'm a **Data Scientist** specializing in **Analytics**
 
-“The good life is one inspired by love and guided by knowledge." — Bertrand Russell
+I am a passionate individual who is constantly seeking opportunities to expand my knowledge and skills in data analytics. I bring energy and enthusiasm to all of my work. I believe that this passion drives my success and will allow me to make a positive impact in any role.

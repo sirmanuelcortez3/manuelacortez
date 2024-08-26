@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "In-depth Portfolio of Coding/Statistics"
+subtitle = "PROJECT DESCRIPTION WITH REPOSITORY LINK"
 
 [content]
   # Page type to display. E.g. project.
