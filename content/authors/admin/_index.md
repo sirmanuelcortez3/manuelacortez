@@ -3,6 +3,9 @@ authors:
 - admin
 avatar_image: "manuelacortez_hero_pic.jpg"
 bio: ""
+btn:
+- label: Request Resume
+  url: /#contact
 display_education: false
 education:
   courses:
@@ -26,6 +29,7 @@ organizations:
   url: ""
 role: Assessment Assistant
 social:
+
 - icon: envelope
   icon_pack: fas
   link: '#contact'
