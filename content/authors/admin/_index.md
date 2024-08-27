@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-avatar_image: manuelacortez_hero_pic.jpg
+avatar_image: "manuelacortez_hero_pic.jpg"
 bio: 
 display_education: false
 education:
