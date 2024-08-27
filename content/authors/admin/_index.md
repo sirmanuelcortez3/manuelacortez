@@ -2,10 +2,10 @@
 authors:
 - admin
 avatar_image: "manuelacortez_hero_pic.jpg"
-bio: ""
+<!---bio: 
 btn:
 - label: Request Resume
-  url: /#contact
+  url: /#contact --->
 display_education: false
 education:
   courses:
