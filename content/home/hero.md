@@ -37,9 +37,9 @@ hero_media = "manuelacortez_hero_pic.jpg"
 #  url = "authors/admin/"
 #  label = "Know more"
   
-[btn_alt]
-  url = "#contact"
-  label = "Contact me"
+#[btn_alt]
+#  url = "#contact"
+#  label = "Contact me"
 
 +++
 ## My name is **Manuel Cortez** and I'm a **Data Scientist** specializing in **Analytics**
