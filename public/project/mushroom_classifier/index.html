@@ -29,10 +29,10 @@
   
     
   
-  <meta name="description" content="Assessment Assistant">
+  <meta name="description" content="Analysis of Mushroom Toxicity">
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:4321/project/">
+  <link rel="alternate" hreflang="en-us" href="http://localhost:4321/project/mushroom_classifier/">
 
   
 
@@ -90,15 +90,12 @@
   
 
   
-  <link rel="alternate" href="/project/index.xml" type="application/rss+xml" title="Manuel A Cortez">
-  <link rel="feed" href="/project/index.xml" type="application/rss+xml" title="Manuel A Cortez">
-  
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="http://localhost:4321/project/">
+  <link rel="canonical" href="http://localhost:4321/project/mushroom_classifier/">
 
   
   
@@ -110,12 +107,14 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Manuel A Cortez">
-  <meta property="og:url" content="http://localhost:4321/project/">
-  <meta property="og:title" content="Projects | Manuel A Cortez">
-  <meta property="og:description" content="Assessment Assistant"><meta property="og:image" content="http://localhost:4321/img/icon-192.png">
+  <meta property="og:url" content="http://localhost:4321/project/mushroom_classifier/">
+  <meta property="og:title" content="Mushroom Classifier | Manuel A Cortez">
+  <meta property="og:description" content="Analysis of Mushroom Toxicity"><meta property="og:image" content="http://localhost:4321/img/icon-192.png">
   <meta property="twitter:image" content="http://localhost:4321/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2024-02-15T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2023-12-10T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2023-12-10T00:00:00&#43;00:00">
   
 
   
@@ -127,7 +126,7 @@
 
 
 
-  <title>Projects | Manuel A Cortez</title>
+  <title>Mushroom Classifier | Manuel A Cortez</title>
 
 </head>
 
@@ -290,6 +289,8 @@
 </nav>
 
 
+  <article class="article article-project py-5" itemscope itemtype="http://schema.org/Article">
+
   
 
 
@@ -308,12 +309,84 @@
     
     
     
-    
-    
-    <div class="universal-wrapper py-3">
-      <h1 itemprop="name">Projects</h1>
+    <div class="article-container py-3">
+      <h1 itemprop="name">Mushroom Classifier</h1>
 
       
+
+      
+      
+
+
+
+<meta content="2023-12-10 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2023-12-10 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>Dec 10, 2023</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="/#contact" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
 
       
       
@@ -321,60 +394,57 @@
   </div>
 </div>
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  
-  
-  <div>
-    <h2><a href="/project/web_scraping_in_r/">Web Scraping Script</a></h2>
-    <div class="article-style">
-      
-      R Script Used to Extract Data From Websites
-      
+    <div class="article-style" itemprop="articleBody">
+      <p>In this project, I focused on predicting whether a mushroom is poisonous or not using K-Nearest Neighbors (KNN) and Principal Component Analysis (PCA). The mushroom dataset was downloaded from the UCI library. Upon discovering missing data, I split the dataset into two parts: one with missing data (used as the test set) and one without (used as the training set). I then one-hot encoded the feature data and label encoded the response variable.</p>
+<p>After ensuring that the feature-training and feature-testing data were consistent, I trained a KNN model on the training data and used it to impute the missing values. I verified that the imputed values matched the original number of missing entries, then reintegrated them into the dataset. Next, I split the data into features and response variables and used <code>train_test_split()</code> to further divide it into training and testing sets.</p>
+<p>I trained a Random Forest classifier and a Logistic Regression model on the data, calculating their accuracy, precision, and recall. To optimize the models, I applied PCA to reduce the dimensionality of the feature data, retaining 95% of the variance. I re-ran the models and recalculated their performance metrics. Finally, I tabulated the results, including accuracy, precision, recall, and computation time, and provided a detailed explanation as to which model was preferable.</p>
+<p>See <a href="https://github.com/sirmanuelcortez3/Mushroom-Classifier.git">github repository</a> for full project. Available upon request.</p>
+
     </div>
-  </div>
-  
-  <div>
-    <h2><a href="/project/mushroom_classifier/">Mushroom Classifier</a></h2>
-    <div class="article-style">
-      
-      Analysis of Mushroom Toxicity
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/project/class_roster_project/">Class Roster Project</a></h2>
-    <div class="article-style">
-      
-      The Final Project to the Scripting and Programming Applications Course
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/project/google_data_analytics_capstone/">Analysis Of 2019 Cyclistic Bike Share Data</a></h2>
-    <div class="article-style">
-      
-      The Capstone Project for the Google Data Analytics Specialization
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/project/python_3_programming_capstone/">Python 3 Programming Project</a></h2>
-    <div class="article-style">
-      
-      The Final Project for the Python 3 Programming course from the University of Michigan
-      
-    </div>
-  </div>
-  
+
+    
+
+
+    
+
+
+
+
+
+
+
 
   
 
-</div>
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+    </div>
+
+    
+    
+    
+    </div>
+  </div>
+</article>
+
+
 
       
 
